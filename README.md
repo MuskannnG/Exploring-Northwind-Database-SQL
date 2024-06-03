@@ -7,14 +7,14 @@ The Northwind database is a widely used sample database for learning and practic
 ### Dataset
 The Northwind database consists of the following key tables:
 
-Customers: Information about customers including contact details and location.
-Orders: Details of orders placed by customers.
-Employees: Information about employees of Northwind Traders.
-Products: Details of products available for sale.
-Suppliers: Information about suppliers providing products to Northwind Traders.
-Categories: Categories of products.
-Order Details: Line items for each order.
-Shippers: Information about shipping companies.
+Customers: Information about customers including contact details and location.<br>
+Orders: Details of orders placed by customers.<br>
+Employees: Information about employees of Northwind Traders.<br>
+Products: Details of products available for sale.<br>
+Suppliers: Information about suppliers providing products to Northwind Traders.<br>
+Categories: Categories of products.<br>
+Order Details: Line items for each order.<br>
+Shippers: Information about shipping companies.<br>
 
 ### Installation
 To set up the Northwind database, you can follow these steps:
