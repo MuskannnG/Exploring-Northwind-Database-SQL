@@ -20,8 +20,8 @@ Shippers: Information about shipping companies.<br>
 To set up the Northwind database, you can follow these steps:
 
 SQL Server Setup:
-Install SQL Server on your local machine or use a cloud-based SQL Server instance.
+Install SQL Server on your local machine or use a cloud-based SQL Server instance.<br>
 Download Northwind Database:
-Download the Northwind database script from Microsoft's official repository.
+Download the Northwind database script from Microsoft's official repository.<br>
 Restore Database:
-Restore the Northwind database using the SQL script provided in the download.
+Restore the Northwind database using the SQL script provided in the download.<br>
